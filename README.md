@@ -1,3 +1,5 @@
+**DEPRECATED**
+
 # webdev-env
 Web Development Environment with easy installation to virtual machine via Vagrant.<br>
 Used "[Scotchbox](https://box.scotch.io/)" + simple configuration for vhosts.
